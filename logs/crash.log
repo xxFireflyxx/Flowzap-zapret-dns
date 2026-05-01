@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\dkuzm\Desktop\FlowZap\main.py", line 102, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\dkuzm\Desktop\FlowZap\main.py", line 88, in main
+    from ui.main_window import MainWindow
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\main_window.py", line 308
+    tab_classes = {
+    ^^^^^^^^^^^
+SyntaxError: expected 'except' or 'finally' block

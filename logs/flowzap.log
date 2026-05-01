@@ -1,0 +1,435 @@
+2026-05-01 00:09:24,212 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:09:24,214 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/zapret.exe', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:11:59,176 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:11:59,177 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/zapret.exe', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:14:44,110 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:14:44,112 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/zapret.exe', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:14:45,092 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 00:17:03,476 [DEBUG] core.manager: [00:17:03] [ERROR] Исполняемый файл не найден: zapret\zapret.exe
+2026-05-01 00:17:10,820 [DEBUG] core.manager: [00:17:10] [ERROR] Исполняемый файл не найден: zapret\zapret.exe
+2026-05-01 00:33:39,167 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:33:39,168 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:33:44,777 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 00:34:48,053 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 00:35:05,615 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:35:05,616 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:35:11,015 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 00:37:41,172 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:37:41,174 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:37:47,489 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 00:37:52,232 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 00:38:47,660 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 00:38:47,661 [DEBUG] flowzap: Конфиг загружен: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 00:38:53,362 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 00:52:24,014 [DEBUG] core.manager: [00:52:24] [ERROR] Исполняемый файл не найден: zapret\bin\winws.exe
+2026-05-01 00:52:35,673 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 13:53:55,426 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:53:55,427 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:53:57,021 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:53:57,182 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:54:02,043 [DEBUG] core.manager: [13:54:02] [START] Запуск zapret...
+2026-05-01 13:54:02,084 [DEBUG] core.manager: [13:54:02] [INFO] zapret запущен (PID 12500)
+2026-05-01 13:54:02,156 [DEBUG] core.manager: [13:54:02] [ERROR] zapret завершился с кодом 1
+2026-05-01 13:54:05,376 [DEBUG] core.manager: [13:54:05] [START] Запуск zapret...
+2026-05-01 13:54:05,379 [DEBUG] core.manager: [13:54:05] [INFO] zapret запущен (PID 1644)
+2026-05-01 13:54:05,426 [DEBUG] core.manager: [13:54:05] [ERROR] zapret завершился с кодом 1
+2026-05-01 13:54:06,240 [DEBUG] core.manager: [13:54:06] [START] Запуск zapret...
+2026-05-01 13:54:06,244 [DEBUG] core.manager: [13:54:06] [INFO] zapret запущен (PID 6928)
+2026-05-01 13:54:06,293 [DEBUG] core.manager: [13:54:06] [ERROR] zapret завершился с кодом 1
+2026-05-01 13:54:07,948 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 13:55:25,395 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:55:25,396 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:55:26,361 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:55:26,558 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:56:27,643 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:56:27,644 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:56:28,744 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:56:28,753 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:56:35,441 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 13:56:43,544 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:56:43,545 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:56:44,417 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:56:44,520 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:57:16,119 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 13:57:29,346 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:57:29,347 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:57:30,319 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:57:30,461 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:59:31,836 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:59:31,837 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:59:32,753 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:59:32,850 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:59:35,682 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 13:59:37,100 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 13:59:40,247 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 13:59:40,248 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 13:59:41,116 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 13:59:41,311 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 13:59:42,434 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 14:00:01,235 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 14:00:01,236 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 14:00:02,080 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 14:00:02,174 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 14:00:05,604 [DEBUG] core.manager: [14:00:05] [START] Запуск zapret...
+2026-05-01 14:00:05,612 [DEBUG] core.manager: [14:00:05] [INFO] zapret запущен (PID 9236)
+2026-05-01 14:00:05,679 [DEBUG] core.manager: [14:00:05] [ERROR] zapret завершился с кодом 1
+2026-05-01 14:00:18,019 [DEBUG] core.manager: [14:00:18] [START] Запуск zapret...
+2026-05-01 14:00:18,027 [DEBUG] core.manager: [14:00:18] [INFO] zapret запущен (PID 5128)
+2026-05-01 14:00:18,076 [DEBUG] core.manager: [14:00:18] [ERROR] zapret завершился с кодом 1
+2026-05-01 14:00:19,803 [DEBUG] core.manager: [14:00:19] [START] Запуск zapret...
+2026-05-01 14:00:19,810 [DEBUG] core.manager: [14:00:19] [INFO] zapret запущен (PID 13776)
+2026-05-01 14:00:19,859 [DEBUG] core.manager: [14:00:19] [ERROR] zapret завершился с кодом 1
+2026-05-01 14:00:21,476 [DEBUG] core.manager: [14:00:21] [START] Запуск zapret...
+2026-05-01 14:00:21,484 [DEBUG] core.manager: [14:00:21] [INFO] zapret запущен (PID 12908)
+2026-05-01 14:00:21,545 [DEBUG] core.manager: [14:00:21] [ERROR] zapret завершился с кодом 1
+2026-05-01 14:00:23,372 [DEBUG] core.manager: [14:00:23] [START] Запуск zapret...
+2026-05-01 14:00:23,380 [DEBUG] core.manager: [14:00:23] [INFO] zapret запущен (PID 14388)
+2026-05-01 14:00:23,444 [DEBUG] core.manager: [14:00:23] [ERROR] zapret завершился с кодом 1
+2026-05-01 14:00:25,036 [DEBUG] core.manager: [14:00:25] [START] Запуск zapret...
+2026-05-01 14:00:25,044 [DEBUG] core.manager: [14:00:25] [INFO] zapret запущен (PID 10832)
+2026-05-01 14:00:25,112 [DEBUG] core.manager: [14:00:25] [ERROR] zapret завершился с кодом 1
+2026-05-01 14:00:47,938 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 15:11:31,104 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 15:11:31,106 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 15:11:32,100 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 15:11:32,239 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 15:11:35,513 [DEBUG] core.manager: [15:11:35] [START] Запуск zapret...
+2026-05-01 15:11:35,528 [DEBUG] core.manager: [15:11:35] [INFO] zapret запущен (PID 13292)
+2026-05-01 15:11:35,618 [DEBUG] core.manager: [15:11:35] [ERROR] zapret завершился с кодом 1
+2026-05-01 15:11:37,102 [DEBUG] core.manager: [15:11:37] [START] Запуск zapret...
+2026-05-01 15:11:37,106 [DEBUG] core.manager: [15:11:37] [INFO] zapret запущен (PID 13884)
+2026-05-01 15:11:37,151 [DEBUG] core.manager: [15:11:37] [ERROR] zapret завершился с кодом 1
+2026-05-01 15:11:40,110 [DEBUG] core.manager: [15:11:40] [START] Запуск zapret...
+2026-05-01 15:11:40,114 [DEBUG] core.manager: [15:11:40] [INFO] zapret запущен (PID 2520)
+2026-05-01 15:11:40,179 [DEBUG] core.manager: [15:11:40] [ERROR] zapret завершился с кодом 1
+2026-05-01 15:23:39,378 [INFO] core.ping_checker: Запускаем тест zapret.ps1...
+2026-05-01 15:23:39,392 [INFO] core.ping_checker: ps1 запущен (stdin: auto-select all), ждём завершения…
+2026-05-01 15:24:07,835 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 16:03:00,683 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 16:03:00,684 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 16:03:01,875 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 16:03:01,994 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_13-25-08.txt (19 пресетов)
+2026-05-01 16:06:32,458 [INFO] core.updater: Получаем информацию о последнем релизе...
+2026-05-01 16:06:32,620 [INFO] core.updater: Скачиваем zapret-discord-youtube-1.9.8b.zip (1.9.8b)...
+2026-05-01 16:06:33,365 [INFO] core.updater: Распаковываем архив...
+2026-05-01 16:06:33,433 [INFO] core.updater: ✓ Core обновлён до версии 1.9.8b
+2026-05-01 16:07:11,561 [INFO] core.updater: Получаем информацию о последнем релизе...
+2026-05-01 16:07:11,729 [INFO] core.updater: Скачиваем zapret-discord-youtube-1.9.8b.zip (1.9.8b)...
+2026-05-01 16:07:12,246 [INFO] core.updater: Распаковываем архив...
+2026-05-01 16:07:12,304 [INFO] core.updater: ✓ Core обновлён до версии 1.9.8b
+2026-05-01 16:07:19,449 [DEBUG] core.manager: [16:07:19] [START] Запуск zapret...
+2026-05-01 16:07:19,494 [DEBUG] core.manager: [16:07:19] [INFO] zapret запущен (PID 13880)
+2026-05-01 16:07:19,604 [DEBUG] core.manager: [16:07:19] [ERROR] zapret завершился с кодом 1
+2026-05-01 16:07:25,269 [DEBUG] core.ping_checker: Нет сохранённых результатов тестов
+2026-05-01 16:07:27,166 [DEBUG] core.manager: [16:07:27] [START] Запуск zapret...
+2026-05-01 16:07:27,177 [DEBUG] core.manager: [16:07:27] [INFO] zapret запущен (PID 15248)
+2026-05-01 16:07:27,235 [DEBUG] core.manager: [16:07:27] [ERROR] zapret завершился с кодом 1
+2026-05-01 16:49:49,914 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 19:33:13,841 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 19:33:13,855 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 19:33:15,099 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 19:33:15,215 [DEBUG] core.ping_checker: Нет сохранённых результатов тестов
+2026-05-01 19:44:24,926 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 19:44:36,913 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 19:44:36,914 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 19:44:37,996 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 19:44:38,061 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 19:47:17,638 [DEBUG] core.manager: [19:47:17] [INFO] Рестарт zapret...
+2026-05-01 19:47:17,639 [DEBUG] core.manager: [19:47:17] [START] Запуск zapret...
+2026-05-01 19:47:17,687 [DEBUG] core.manager: [19:47:17] [INFO] zapret запущен (PID 11496)
+2026-05-01 19:47:17,873 [DEBUG] core.manager: [19:47:17] [ERROR] zapret завершился с кодом 1
+2026-05-01 19:47:18,528 [DEBUG] core.manager: [19:47:18] [INFO] Рестарт zapret...
+2026-05-01 19:47:18,529 [DEBUG] core.manager: [19:47:18] [START] Запуск zapret...
+2026-05-01 19:47:18,537 [DEBUG] core.manager: [19:47:18] [INFO] zapret запущен (PID 5896)
+2026-05-01 19:47:18,685 [DEBUG] core.manager: [19:47:18] [ERROR] zapret завершился с кодом 1
+2026-05-01 19:47:19,079 [DEBUG] core.manager: [19:47:19] [INFO] Рестарт zapret...
+2026-05-01 19:47:19,080 [DEBUG] core.manager: [19:47:19] [START] Запуск zapret...
+2026-05-01 19:47:19,085 [DEBUG] core.manager: [19:47:19] [INFO] zapret запущен (PID 13364)
+2026-05-01 19:47:19,268 [DEBUG] core.manager: [19:47:19] [ERROR] zapret завершился с кодом 1
+2026-05-01 19:47:19,793 [DEBUG] core.manager: [19:47:19] [INFO] Рестарт zapret...
+2026-05-01 19:47:19,794 [DEBUG] core.manager: [19:47:19] [START] Запуск zapret...
+2026-05-01 19:47:19,799 [DEBUG] core.manager: [19:47:19] [INFO] zapret запущен (PID 8704)
+2026-05-01 19:47:19,948 [DEBUG] core.manager: [19:47:19] [ERROR] zapret завершился с кодом 1
+2026-05-01 19:47:20,020 [DEBUG] core.manager: [19:47:20] [INFO] Рестарт zapret...
+2026-05-01 19:47:20,020 [DEBUG] core.manager: [19:47:20] [START] Запуск zapret...
+2026-05-01 19:47:20,025 [DEBUG] core.manager: [19:47:20] [INFO] zapret запущен (PID 12944)
+2026-05-01 19:47:20,217 [DEBUG] core.manager: [19:47:20] [ERROR] zapret завершился с кодом 1
+2026-05-01 20:00:37,584 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 20:12:08,008 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:12:08,008 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:14:58,687 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:14:58,687 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:15:05,414 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:15:05,415 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:16:52,913 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:16:52,914 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:16:58,711 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:16:58,712 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:19:34,134 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:19:34,135 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:19:35,277 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 20:19:35,349 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 20:20:45,202 [DEBUG] core.manager: [20:20:45] [START] Запуск zapret...
+2026-05-01 20:20:45,209 [DEBUG] core.manager: [20:20:45] [INFO] zapret запущен (PID 14472)
+2026-05-01 20:20:45,302 [DEBUG] core.manager: [20:20:45] [ERROR] zapret завершился с кодом 1
+2026-05-01 20:20:46,120 [DEBUG] core.manager: [20:20:46] [START] Запуск zapret...
+2026-05-01 20:20:46,125 [DEBUG] core.manager: [20:20:46] [INFO] zapret запущен (PID 12944)
+2026-05-01 20:20:46,200 [DEBUG] core.manager: [20:20:46] [ERROR] zapret завершился с кодом 1
+2026-05-01 20:24:50,964 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 20:27:21,870 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:27:21,872 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}}
+2026-05-01 20:27:22,833 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 20:27:22,924 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 20:32:58,821 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 20:44:19,010 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:44:19,011 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 20:44:19,472 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 20:45:56,023 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 20:45:59,625 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:45:59,626 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 20:46:00,007 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 20:46:58,392 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 20:48:25,900 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:48:25,902 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 20:48:26,355 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 20:48:29,476 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 20:51:10,293 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:51:10,294 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 20:53:13,142 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 20:53:13,143 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 21:05:33,086 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 21:05:33,096 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 21:05:34,430 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 21:05:38,149 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 21:06:55,208 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 21:06:55,210 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 21:06:55,586 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 21:06:58,103 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:13:40,000 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:13:40,001 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': []}}
+2026-05-01 22:13:41,923 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:13:41,998 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:14:53,208 [DEBUG] core.manager: [22:14:53] [INFO] Рестарт zapret...
+2026-05-01 22:14:53,209 [DEBUG] core.manager: [22:14:53] [START] Запуск zapret...
+2026-05-01 22:14:53,260 [DEBUG] core.manager: [22:14:53] [INFO] zapret запущен (PID 1668)
+2026-05-01 22:14:53,403 [DEBUG] core.manager: [22:14:53] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:20:22,355 [DEBUG] core.manager: [22:20:22] [INFO] Рестарт zapret...
+2026-05-01 22:20:22,355 [DEBUG] core.manager: [22:20:22] [START] Запуск zapret...
+2026-05-01 22:20:22,358 [DEBUG] core.manager: [22:20:22] [INFO] zapret запущен (PID 8736)
+2026-05-01 22:20:23,388 [DEBUG] core.manager: [22:20:23] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:20:25,187 [DEBUG] core.manager: [22:20:25] [INFO] Рестарт zapret...
+2026-05-01 22:20:25,188 [DEBUG] core.manager: [22:20:25] [START] Запуск zapret...
+2026-05-01 22:20:25,190 [DEBUG] core.manager: [22:20:25] [INFO] zapret запущен (PID 6436)
+2026-05-01 22:20:26,197 [DEBUG] core.manager: [22:20:26] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:26:21,222 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:26:21,235 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51', '1.1.1.1']}}
+2026-05-01 22:26:22,390 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:26:22,409 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:26:25,593 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:26:26,495 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:26:32,075 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:26:32,076 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51', '1.1.1.1']}}
+2026-05-01 22:26:32,955 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:26:33,031 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:26:35,235 [DEBUG] ui.dashboard: DNS toggle: интерфейс = 'Беспроводная сеть', включить = True
+2026-05-01 22:26:35,236 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50
+2026-05-01 22:26:47,353 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip add dns name="Беспроводная сеть" addr=111.88.96.51 index=2
+2026-05-01 22:26:59,457 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:27:11,697 [DEBUG] ui.dashboard: DNS toggle: интерфейс = 'Беспроводная сеть', включить = False
+2026-05-01 22:27:11,697 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:27:11,766 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:27:19,448 [DEBUG] ui.dashboard: DNS toggle: интерфейс = 'Беспроводная сеть', включить = True
+2026-05-01 22:27:19,449 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50
+2026-05-01 22:27:31,548 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip add dns name="Беспроводная сеть" addr=111.88.96.51 index=2
+2026-05-01 22:27:43,658 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:31:10,635 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:31:15,719 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:31:15,719 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51', '1.1.1.1']}}
+2026-05-01 22:31:16,591 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:31:16,634 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:31:17,737 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50
+2026-05-01 22:31:41,940 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:32:31,555 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:32:31,620 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:32:37,303 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50
+2026-05-01 22:33:01,530 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:34:20,097 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:34:20,158 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:34:20,906 [DEBUG] core.manager: [22:34:20] [START] Запуск zapret...
+2026-05-01 22:34:20,911 [DEBUG] core.manager: [22:34:20] [INFO] zapret запущен (PID 5736)
+2026-05-01 22:34:20,967 [DEBUG] core.manager: [22:34:20] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:34:21,738 [DEBUG] core.manager: [22:34:21] [START] Запуск zapret...
+2026-05-01 22:34:21,741 [DEBUG] core.manager: [22:34:21] [INFO] zapret запущен (PID 6900)
+2026-05-01 22:34:21,793 [DEBUG] core.manager: [22:34:21] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:34:22,234 [DEBUG] core.manager: [22:34:22] [START] Запуск zapret...
+2026-05-01 22:34:22,237 [DEBUG] core.manager: [22:34:22] [INFO] zapret запущен (PID 5644)
+2026-05-01 22:34:22,290 [DEBUG] core.manager: [22:34:22] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:34:22,618 [DEBUG] core.manager: [22:34:22] [START] Запуск zapret...
+2026-05-01 22:34:22,620 [DEBUG] core.manager: [22:34:22] [INFO] zapret запущен (PID 10208)
+2026-05-01 22:34:22,659 [DEBUG] core.manager: [22:34:22] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:34:27,159 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:34:30,892 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:34:30,893 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51', '1.1.1.1']}}
+2026-05-01 22:34:31,790 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:34:31,857 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:34:33,203 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50
+2026-05-01 22:34:57,412 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:42:17,523 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:42:21,779 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:42:21,780 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'bol-van/zapret', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51', '1.1.1.1']}}
+2026-05-01 22:42:22,728 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:42:22,795 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:42:24,148 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:42:24,284 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:42:36,903 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:42:36,969 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:42:37,814 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:42:37,974 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:42:39,805 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:42:39,864 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:42:43,600 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:42:43,714 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:44:49,267 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:51:02,915 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:51:07,071 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:51:07,072 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51', '1.1.1.1']}}
+2026-05-01 22:51:08,055 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:51:08,104 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:51:12,705 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:51:27,393 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:51:32,982 [DEBUG] core.manager: [22:51:32] [INFO] Рестарт zapret...
+2026-05-01 22:51:32,982 [DEBUG] core.manager: [22:51:32] [START] Запуск zapret...
+2026-05-01 22:51:32,986 [DEBUG] core.manager: [22:51:32] [INFO] zapret запущен (PID 10844)
+2026-05-01 22:51:33,330 [DEBUG] core.manager: [22:51:33] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:51:36,568 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:51:36,695 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:51:51,013 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:52:03,623 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:52:05,086 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:52:07,999 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 22:53:05,391 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:53:05,457 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:53:12,296 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:53:12,419 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:53:19,468 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 22:53:19,529 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 22:56:23,898 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:56:28,925 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:56:28,935 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-01 22:56:29,879 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:56:29,951 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:56:31,570 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:56:31,696 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:56:35,618 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 22:56:38,868 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 22:56:38,869 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-01 22:56:39,733 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 22:56:39,807 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 22:56:44,803 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 22:56:44,929 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 22:56:47,419 [DEBUG] core.manager: [22:56:47] [START] Запуск zapret...
+2026-05-01 22:56:47,424 [DEBUG] core.manager: [22:56:47] [INFO] zapret запущен (PID 7100)
+2026-05-01 22:56:47,482 [DEBUG] core.manager: [22:56:47] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:56:48,354 [DEBUG] core.manager: [22:56:48] [START] Запуск zapret...
+2026-05-01 22:56:48,357 [DEBUG] core.manager: [22:56:48] [INFO] zapret запущен (PID 964)
+2026-05-01 22:56:48,397 [DEBUG] core.manager: [22:56:48] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:57:49,939 [DEBUG] core.manager: [22:57:49] [START] Запуск zapret...
+2026-05-01 22:57:49,942 [DEBUG] core.manager: [22:57:49] [INFO] zapret запущен (PID 6268)
+2026-05-01 22:57:50,007 [DEBUG] core.manager: [22:57:50] [ERROR] zapret завершился с кодом 1
+2026-05-01 22:57:50,458 [DEBUG] core.manager: [22:57:50] [START] Запуск zapret...
+2026-05-01 22:57:50,461 [DEBUG] core.manager: [22:57:50] [INFO] zapret запущен (PID 7440)
+2026-05-01 22:57:50,524 [DEBUG] core.manager: [22:57:50] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:04:05,968 [DEBUG] core.manager: [23:04:05] [START] Запуск zapret...
+2026-05-01 23:04:05,974 [DEBUG] core.manager: [23:04:05] [INFO] zapret запущен (PID 3700)
+2026-05-01 23:04:06,066 [DEBUG] core.manager: [23:04:06] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:04:08,124 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 23:04:08,873 [INFO] core.ping_checker: Загружены результаты из test_results_2026-03-05_16-13-08.txt (19 пресетов)
+2026-05-01 23:06:55,065 [INFO] core.ping_checker: Запускаем тест zapret.ps1...
+2026-05-01 23:06:55,094 [INFO] core.ping_checker: ps1 запущен (stdin: auto-select all), ждём завершения…
+2026-05-01 23:06:57,519 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 23:06:57,583 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 23:07:19,887 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 23:07:20,026 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 23:07:24,895 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 23:07:24,969 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 23:07:37,611 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 23:07:37,751 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 23:11:24,908 [DEBUG] core.ping_checker: ps1 завершился с кодом 1
+2026-05-01 23:11:24,909 [INFO] core.ping_checker: Найден файл результатов: test_results_2026-05-01_23-11-13.txt
+2026-05-01 23:12:18,328 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 23:12:22,088 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 23:12:22,214 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 23:13:04,464 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 23:13:04,584 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 23:14:26,739 [DEBUG] core.manager: [23:14:26] [START] Запуск zapret...
+2026-05-01 23:14:26,742 [DEBUG] core.manager: [23:14:26] [INFO] zapret запущен (PID 9880)
+2026-05-01 23:14:26,798 [DEBUG] core.manager: [23:14:26] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:28,844 [DEBUG] core.manager: [23:14:28] [START] Запуск zapret...
+2026-05-01 23:14:28,848 [DEBUG] core.manager: [23:14:28] [INFO] zapret запущен (PID 3436)
+2026-05-01 23:14:28,915 [DEBUG] core.manager: [23:14:28] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:29,442 [DEBUG] core.manager: [23:14:29] [START] Запуск zapret...
+2026-05-01 23:14:29,447 [DEBUG] core.manager: [23:14:29] [INFO] zapret запущен (PID 1696)
+2026-05-01 23:14:29,510 [DEBUG] core.manager: [23:14:29] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:29,682 [DEBUG] core.manager: [23:14:29] [START] Запуск zapret...
+2026-05-01 23:14:29,685 [DEBUG] core.manager: [23:14:29] [INFO] zapret запущен (PID 8404)
+2026-05-01 23:14:29,759 [DEBUG] core.manager: [23:14:29] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:29,858 [DEBUG] core.manager: [23:14:29] [START] Запуск zapret...
+2026-05-01 23:14:29,863 [DEBUG] core.manager: [23:14:29] [INFO] zapret запущен (PID 3384)
+2026-05-01 23:14:29,930 [DEBUG] core.manager: [23:14:29] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:30,034 [DEBUG] core.manager: [23:14:30] [START] Запуск zapret...
+2026-05-01 23:14:30,037 [DEBUG] core.manager: [23:14:30] [INFO] zapret запущен (PID 3480)
+2026-05-01 23:14:30,101 [DEBUG] core.manager: [23:14:30] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:30,450 [DEBUG] core.manager: [23:14:30] [START] Запуск zapret...
+2026-05-01 23:14:30,453 [DEBUG] core.manager: [23:14:30] [INFO] zapret запущен (PID 10028)
+2026-05-01 23:14:30,522 [DEBUG] core.manager: [23:14:30] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:30,882 [DEBUG] core.manager: [23:14:30] [START] Запуск zapret...
+2026-05-01 23:14:30,885 [DEBUG] core.manager: [23:14:30] [INFO] zapret запущен (PID 2564)
+2026-05-01 23:14:30,958 [DEBUG] core.manager: [23:14:30] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:36,646 [DEBUG] core.manager: [23:14:36] [START] Запуск zapret...
+2026-05-01 23:14:36,648 [DEBUG] core.manager: [23:14:36] [INFO] zapret запущен (PID 9332)
+2026-05-01 23:14:36,715 [DEBUG] core.manager: [23:14:36] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:38,614 [DEBUG] core.manager: [23:14:38] [START] Запуск zapret...
+2026-05-01 23:14:38,618 [DEBUG] core.manager: [23:14:38] [INFO] zapret запущен (PID 4700)
+2026-05-01 23:14:38,673 [DEBUG] core.manager: [23:14:38] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:40,349 [DEBUG] core.manager: [23:14:40] [START] Запуск zapret...
+2026-05-01 23:14:40,354 [DEBUG] core.manager: [23:14:40] [INFO] zapret запущен (PID 10516)
+2026-05-01 23:14:40,425 [DEBUG] core.manager: [23:14:40] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:42,334 [DEBUG] core.manager: [23:14:42] [START] Запуск zapret...
+2026-05-01 23:14:42,339 [DEBUG] core.manager: [23:14:42] [INFO] zapret запущен (PID 7024)
+2026-05-01 23:14:42,399 [DEBUG] core.manager: [23:14:42] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:46,117 [DEBUG] core.manager: [23:14:46] [START] Запуск zapret...
+2026-05-01 23:14:46,121 [DEBUG] core.manager: [23:14:46] [INFO] zapret запущен (PID 10616)
+2026-05-01 23:14:46,189 [DEBUG] core.manager: [23:14:46] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:14:47,845 [DEBUG] core.manager: [23:14:47] [START] Запуск zapret...
+2026-05-01 23:14:47,848 [DEBUG] core.manager: [23:14:47] [INFO] zapret запущен (PID 10600)
+2026-05-01 23:14:47,893 [DEBUG] core.manager: [23:14:47] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:26:25,643 [ERROR] core.updater: Ошибка проверки обновлений: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-05-01 23:26:26,290 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 23:26:26,367 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 23:30:17,100 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 23:30:17,223 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-01 23:40:57,245 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-01 23:40:57,322 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-01 23:41:00,349 [INFO] core.ping_checker: Запускаем тест zapret.ps1...
+2026-05-01 23:41:00,352 [INFO] core.ping_checker: ps1 запущен (stdin: auto-select all), ждём завершения…
+2026-05-01 23:46:22,401 [DEBUG] core.ping_checker: ps1 завершился с кодом 1
+2026-05-01 23:46:22,402 [INFO] core.ping_checker: Найден файл результатов: test_results_2026-05-01_23-46-10.txt
+2026-05-01 23:48:59,670 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-01 23:49:01,351 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-01 23:49:31,317 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-01 23:49:35,326 [DEBUG] core.manager: [23:49:35] [START] Запуск zapret...
+2026-05-01 23:49:35,329 [DEBUG] core.manager: [23:49:35] [INFO] zapret запущен (PID 7424)
+2026-05-01 23:49:35,395 [DEBUG] core.manager: [23:49:35] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:49:38,670 [DEBUG] core.manager: [23:49:38] [START] Запуск zapret...
+2026-05-01 23:49:38,675 [DEBUG] core.manager: [23:49:38] [INFO] zapret запущен (PID 10532)
+2026-05-01 23:49:38,735 [DEBUG] core.manager: [23:49:38] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:49:41,430 [DEBUG] core.manager: [23:49:41] [START] Запуск zapret...
+2026-05-01 23:49:41,435 [DEBUG] core.manager: [23:49:41] [INFO] zapret запущен (PID 9260)
+2026-05-01 23:49:41,479 [DEBUG] core.manager: [23:49:41] [ERROR] zapret завершился с кодом 1
+2026-05-01 23:50:40,385 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-01 23:59:47,586 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-01 23:59:47,587 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-01 23:59:48,502 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-01 23:59:48,575 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-01 23:59:49,651 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-01 23:59:49,790 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
