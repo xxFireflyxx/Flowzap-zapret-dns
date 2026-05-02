@@ -8,6 +8,7 @@ autostart = false
 [ui]
 theme = "dark"
 remember_tab = true
+bar_style = "rainbow"
 
 [updater]
 repo = "Flowseal/zapret-discord-youtube"

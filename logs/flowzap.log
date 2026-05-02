@@ -433,3 +433,449 @@
 2026-05-01 23:59:48,575 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
 2026-05-01 23:59:49,651 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
 2026-05-01 23:59:49,790 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 01:35:44,099 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-02 01:35:44,265 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-02 01:35:45,726 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 01:35:50,097 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:35:50,098 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:35:51,246 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 01:35:51,261 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 01:35:52,896 [DEBUG] ui.dashboard: Активные интерфейсы: ['Беспроводная сеть']
+2026-05-02 01:35:52,977 [INFO] ui.dashboard: DNS установлен на Беспроводная сеть: 111.88.98.50
+2026-05-02 01:35:53,059 [INFO] ui.dashboard: DNS2 установлен на Беспроводная сеть: 111.88.96.51
+2026-05-02 01:35:53,192 [DEBUG] ui.dashboard: IPv6 отключён (alt) на Беспроводная сеть
+2026-05-02 01:35:54,939 [DEBUG] ui.dashboard: Активные интерфейсы: ['Беспроводная сеть']
+2026-05-02 01:35:55,004 [WARNING] ui.dashboard: IPv6 включить не удалось на Беспроводная сеть: Элемент не найден.
+2026-05-02 01:35:55,081 [INFO] ui.dashboard: DNS сброшен на DHCP на Беспроводная сеть
+2026-05-02 01:35:55,992 [DEBUG] ui.dashboard: Активные интерфейсы: ['Беспроводная сеть']
+2026-05-02 01:35:56,062 [INFO] ui.dashboard: DNS установлен на Беспроводная сеть: 111.88.98.50
+2026-05-02 01:35:56,150 [INFO] ui.dashboard: DNS2 установлен на Беспроводная сеть: 111.88.96.51
+2026-05-02 01:35:56,267 [DEBUG] ui.dashboard: IPv6 отключён (alt) на Беспроводная сеть
+2026-05-02 01:36:33,532 [DEBUG] core.manager: [01:36:33] [START] Запуск zapret...
+2026-05-02 01:36:33,536 [DEBUG] core.manager: [01:36:33] [INFO] zapret запущен (PID 7516)
+2026-05-02 01:36:33,591 [DEBUG] core.manager: [01:36:33] [ERROR] zapret завершился с кодом 1
+2026-05-02 01:36:35,146 [DEBUG] core.manager: [01:36:35] [START] Запуск zapret...
+2026-05-02 01:36:35,155 [DEBUG] core.manager: [01:36:35] [INFO] zapret запущен (PID 6280)
+2026-05-02 01:36:35,213 [DEBUG] core.manager: [01:36:35] [ERROR] zapret завершился с кодом 1
+2026-05-02 01:36:37,406 [DEBUG] core.manager: [01:36:37] [START] Запуск zapret...
+2026-05-02 01:36:37,413 [DEBUG] core.manager: [01:36:37] [INFO] zapret запущен (PID 9628)
+2026-05-02 01:36:37,470 [DEBUG] core.manager: [01:36:37] [ERROR] zapret завершился с кодом 1
+2026-05-02 01:36:38,891 [DEBUG] core.manager: [01:36:38] [START] Запуск zapret...
+2026-05-02 01:36:38,895 [DEBUG] core.manager: [01:36:38] [INFO] zapret запущен (PID 5920)
+2026-05-02 01:36:38,938 [DEBUG] core.manager: [01:36:38] [ERROR] zapret завершился с кодом 1
+2026-05-02 01:36:41,124 [DEBUG] core.manager: [01:36:41] [START] Запуск zapret...
+2026-05-02 01:36:41,128 [DEBUG] core.manager: [01:36:41] [INFO] zapret запущен (PID 10196)
+2026-05-02 01:36:41,186 [DEBUG] core.manager: [01:36:41] [ERROR] zapret завершился с кодом 1
+2026-05-02 01:42:34,468 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 01:42:40,319 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:42:40,320 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:42:41,341 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 01:42:41,422 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 01:42:43,040 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 01:42:43,170 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 01:42:51,094 [DEBUG] core.manager: [01:42:51] [START] Запуск zapret...
+2026-05-02 01:42:51,094 [DEBUG] core.manager: [01:42:51] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 01:42:51,105 [DEBUG] core.manager: [01:42:51] [INFO] zapret запущен (PID 5108)
+2026-05-02 01:42:51,324 [DEBUG] core.manager: [01:42:51] [INFO] zapret завершился (код 0)
+2026-05-02 01:42:52,971 [DEBUG] core.manager: [01:42:52] [START] Запуск zapret...
+2026-05-02 01:42:52,972 [DEBUG] core.manager: [01:42:52] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 01:42:52,974 [DEBUG] core.manager: [01:42:52] [INFO] zapret запущен (PID 8396)
+2026-05-02 01:42:53,170 [DEBUG] core.manager: [01:42:53] [INFO] zapret завершился (код 0)
+2026-05-02 01:43:03,532 [DEBUG] core.manager: [01:43:03] [START] Запуск zapret...
+2026-05-02 01:43:03,532 [DEBUG] core.manager: [01:43:03] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 01:43:03,536 [DEBUG] core.manager: [01:43:03] [INFO] zapret запущен (PID 1792)
+2026-05-02 01:43:03,730 [DEBUG] core.manager: [01:43:03] [INFO] zapret завершился (код 0)
+2026-05-02 01:45:30,076 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 01:45:34,286 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:45:34,287 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:45:45,769 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:45:45,769 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:47:35,118 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:47:35,119 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:49:20,935 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:49:20,936 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:49:21,864 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 01:49:21,947 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 01:49:44,255 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 01:49:50,215 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 01:49:50,351 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 01:58:23,240 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 01:58:28,236 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 01:58:28,236 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 01:58:29,197 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 01:58:29,278 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 01:58:44,450 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 01:58:44,581 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 02:00:56,476 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:01:01,008 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:01:01,009 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:01:01,947 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:01:02,029 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:01:05,966 [DEBUG] core.manager: [02:01:05] [START] Запуск zapret...
+2026-05-02 02:01:05,966 [DEBUG] core.manager: [02:01:05] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:01:05,975 [DEBUG] core.manager: [02:01:05] [INFO] zapret запущен (PID 12108)
+2026-05-02 02:01:07,859 [DEBUG] core.manager: [02:01:07] [INFO] winws.exe найден (PID 7716), слежение активно
+2026-05-02 02:01:15,987 [DEBUG] core.manager: [02:01:15] [STOP] Остановка zapret...
+2026-05-02 02:01:16,081 [DEBUG] core.manager: [02:01:16] [INFO] winws.exe (PID 7716) завершён
+2026-05-02 02:01:16,081 [DEBUG] core.manager: [02:01:16] [INFO] zapret остановлен
+2026-05-02 02:01:17,779 [DEBUG] core.manager: [02:01:17] [START] Запуск zapret...
+2026-05-02 02:01:17,780 [DEBUG] core.manager: [02:01:17] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:01:17,782 [DEBUG] core.manager: [02:01:17] [INFO] zapret запущен (PID 7516)
+2026-05-02 02:01:19,609 [DEBUG] core.manager: [02:01:19] [INFO] winws.exe найден (PID 12556), слежение активно
+2026-05-02 02:01:21,915 [DEBUG] core.manager: [02:01:21] [STOP] Остановка zapret...
+2026-05-02 02:01:22,002 [DEBUG] core.manager: [02:01:22] [INFO] winws.exe (PID 12556) завершён
+2026-05-02 02:01:22,002 [DEBUG] core.manager: [02:01:22] [INFO] zapret остановлен
+2026-05-02 02:01:27,532 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 02:01:27,670 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 02:04:29,703 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-02 02:04:29,770 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-02 02:04:35,763 [DEBUG] core.manager: [02:04:35] [START] Запуск zapret...
+2026-05-02 02:04:35,764 [DEBUG] core.manager: [02:04:35] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:04:35,767 [DEBUG] core.manager: [02:04:35] [INFO] zapret запущен (PID 8572)
+2026-05-02 02:04:37,654 [DEBUG] core.manager: [02:04:37] [INFO] winws.exe найден (PID 11928), слежение активно
+2026-05-02 02:04:46,730 [DEBUG] core.manager: [02:04:46] [ERROR] winws.exe (PID 11928) завершился
+2026-05-02 02:07:36,969 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:07:41,372 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:07:41,373 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:07:42,329 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:07:42,412 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:07:43,723 [DEBUG] core.manager: [02:07:43] [START] Запуск zapret...
+2026-05-02 02:07:43,724 [DEBUG] core.manager: [02:07:43] [INFO] check_updates.enabled удалён (авто-браузер отключён)
+2026-05-02 02:07:43,725 [DEBUG] core.manager: [02:07:43] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:07:43,748 [DEBUG] core.manager: [02:07:43] [INFO] zapret запущен (PID 4836)
+2026-05-02 02:07:44,243 [DEBUG] core.manager: [02:07:44] [ERROR] zapret завершился с кодом 1
+2026-05-02 02:09:52,302 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:09:56,514 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:09:56,514 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:09:57,475 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:09:57,555 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:10:00,284 [DEBUG] core.manager: [02:10:00] [START] Запуск zapret...
+2026-05-02 02:10:00,284 [DEBUG] core.manager: [02:10:00] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:10:00,294 [DEBUG] core.manager: [02:10:00] [INFO] zapret запущен (PID 11736)
+2026-05-02 02:10:02,085 [DEBUG] core.manager: [02:10:02] [INFO] winws.exe найден (PID 8588), слежение активно
+2026-05-02 02:10:04,355 [DEBUG] core.manager: [02:10:04] [STOP] Остановка zapret...
+2026-05-02 02:10:04,448 [DEBUG] core.manager: [02:10:04] [INFO] winws.exe (PID 8588) завершён
+2026-05-02 02:10:04,448 [DEBUG] core.manager: [02:10:04] [INFO] zapret остановлен
+2026-05-02 02:10:06,108 [DEBUG] core.manager: [02:10:06] [START] Запуск zapret...
+2026-05-02 02:10:06,108 [DEBUG] core.manager: [02:10:06] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:10:06,111 [DEBUG] core.manager: [02:10:06] [INFO] zapret запущен (PID 7980)
+2026-05-02 02:10:06,301 [DEBUG] core.manager: [02:10:06] [ERROR] winws.exe (PID 8588) завершился
+2026-05-02 02:10:07,890 [DEBUG] core.manager: [02:10:07] [INFO] winws.exe найден (PID 9872), слежение активно
+2026-05-02 02:10:08,963 [DEBUG] core.manager: [02:10:08] [START] Запуск zapret...
+2026-05-02 02:10:08,963 [DEBUG] core.manager: [02:10:08] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:10:08,966 [DEBUG] core.manager: [02:10:08] [INFO] zapret запущен (PID 10860)
+2026-05-02 02:10:10,260 [DEBUG] core.manager: [02:10:10] [STOP] Остановка zapret...
+2026-05-02 02:10:10,348 [DEBUG] core.manager: [02:10:10] [INFO] zapret остановлен
+2026-05-02 02:10:10,724 [DEBUG] core.manager: [02:10:10] [WARN] winws.exe не найден после запуска bat
+2026-05-02 02:10:13,019 [DEBUG] core.manager: [02:10:13] [START] Запуск zapret...
+2026-05-02 02:10:13,019 [DEBUG] core.manager: [02:10:13] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:10:13,021 [DEBUG] core.manager: [02:10:13] [INFO] zapret запущен (PID 11168)
+2026-05-02 02:10:14,775 [DEBUG] core.manager: [02:10:14] [INFO] winws.exe найден (PID 12296), слежение активно
+2026-05-02 02:10:22,956 [DEBUG] core.manager: [02:10:22] [STOP] Остановка zapret...
+2026-05-02 02:10:23,065 [DEBUG] core.manager: [02:10:23] [INFO] winws.exe (PID 12296) завершён
+2026-05-02 02:10:23,066 [DEBUG] core.manager: [02:10:23] [INFO] zapret остановлен
+2026-05-02 02:10:26,246 [DEBUG] core.manager: [02:10:26] [START] Запуск zapret...
+2026-05-02 02:10:26,247 [DEBUG] core.manager: [02:10:26] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:10:26,256 [DEBUG] core.manager: [02:10:26] [INFO] zapret запущен (PID 13200)
+2026-05-02 02:10:28,014 [DEBUG] core.manager: [02:10:28] [INFO] winws.exe найден (PID 7980), слежение активно
+2026-05-02 02:10:32,843 [DEBUG] core.manager: [02:10:32] [STOP] Остановка zapret...
+2026-05-02 02:10:32,936 [DEBUG] core.manager: [02:10:32] [INFO] winws.exe (PID 7980) завершён
+2026-05-02 02:10:32,936 [DEBUG] core.manager: [02:10:32] [INFO] zapret остановлен
+2026-05-02 02:10:34,460 [DEBUG] core.manager: [02:10:34] [START] Запуск zapret...
+2026-05-02 02:10:34,460 [DEBUG] core.manager: [02:10:34] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:10:34,463 [DEBUG] core.manager: [02:10:34] [INFO] zapret запущен (PID 10444)
+2026-05-02 02:10:36,234 [DEBUG] core.manager: [02:10:36] [INFO] winws.exe найден (PID 8436), слежение активно
+2026-05-02 02:10:39,684 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 02:10:39,822 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 02:10:41,196 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-02 02:10:41,268 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-02 02:11:48,371 [DEBUG] core.manager: [02:11:48] [STOP] Остановка zapret...
+2026-05-02 02:11:48,463 [DEBUG] core.manager: [02:11:48] [INFO] winws.exe (PID 8436) завершён
+2026-05-02 02:11:48,463 [DEBUG] core.manager: [02:11:48] [INFO] zapret остановлен
+2026-05-02 02:11:48,533 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:12:35,836 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:12:35,838 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:12:36,766 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:12:36,847 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:12:37,941 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 02:12:38,076 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 02:15:56,554 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:16:01,035 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:16:01,036 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:16:01,965 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:16:02,055 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:16:04,419 [DEBUG] core.manager: [02:16:04] [START] Запуск zapret...
+2026-05-02 02:16:04,419 [DEBUG] core.manager: [02:16:04] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:16:04,428 [DEBUG] core.manager: [02:16:04] [INFO] zapret запущен (PID 8884)
+2026-05-02 02:16:21,473 [DEBUG] core.manager: [02:16:21] [INFO] winws.exe найден (PID 13932), слежение активно
+2026-05-02 02:17:20,963 [DEBUG] core.manager: [02:17:20] [STOP] Остановка zapret...
+2026-05-02 02:17:21,116 [DEBUG] core.manager: [02:17:21] [INFO] winws.exe (PID 13932) завершён
+2026-05-02 02:17:21,117 [DEBUG] core.manager: [02:17:21] [INFO] zapret остановлен
+2026-05-02 02:18:03,000 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:18:07,387 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:18:07,388 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:18:08,276 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:18:08,351 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:18:10,044 [DEBUG] core.manager: [02:18:10] [START] Запуск zapret...
+2026-05-02 02:18:10,045 [DEBUG] core.manager: [02:18:10] [INFO] Режим: bat-файл (general.bat)
+2026-05-02 02:18:10,069 [DEBUG] core.manager: [02:18:10] [INFO] zapret запущен (PID 13832)
+2026-05-02 02:18:11,752 [DEBUG] core.manager: [02:18:11] [WARN] winws.exe не найден после запуска bat
+2026-05-02 02:18:11,753 [DEBUG] core.manager: [02:18:11] [INFO] zapret завершился (код 0)
+2026-05-02 02:18:14,679 [DEBUG] core.manager: [02:18:14] [START] Запуск zapret...
+2026-05-02 02:18:14,679 [DEBUG] core.manager: [02:18:14] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:18:14,695 [DEBUG] core.manager: [02:18:14] [INFO] zapret запущен (PID 3184)
+2026-05-02 02:18:16,368 [DEBUG] core.manager: [02:18:16] [WARN] winws.exe не найден после запуска bat
+2026-05-02 02:18:16,369 [DEBUG] core.manager: [02:18:16] [INFO] zapret завершился (код 0)
+2026-05-02 02:18:17,747 [DEBUG] core.manager: [02:18:17] [START] Запуск zapret...
+2026-05-02 02:18:17,748 [DEBUG] core.manager: [02:18:17] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:18:17,750 [DEBUG] core.manager: [02:18:17] [INFO] zapret запущен (PID 3760)
+2026-05-02 02:18:19,429 [DEBUG] core.manager: [02:18:19] [WARN] winws.exe не найден после запуска bat
+2026-05-02 02:18:19,429 [DEBUG] core.manager: [02:18:19] [INFO] zapret завершился (код 0)
+2026-05-02 02:19:14,996 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:19:19,832 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:19:19,834 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:19:20,871 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:19:20,947 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:19:24,878 [DEBUG] core.manager: [02:19:24] [START] Запуск zapret...
+2026-05-02 02:19:24,879 [DEBUG] core.manager: [02:19:24] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:19:24,897 [DEBUG] core.manager: [02:19:24] [INFO] zapret запущен (PID 8576)
+2026-05-02 02:19:28,079 [DEBUG] core.manager: [02:19:28] [WARN] winws.exe не найден после запуска bat
+2026-05-02 02:19:28,079 [DEBUG] core.manager: [02:19:28] [INFO] zapret завершился (код 0)
+2026-05-02 02:19:29,452 [DEBUG] core.manager: [02:19:29] [START] Запуск zapret...
+2026-05-02 02:19:29,452 [DEBUG] core.manager: [02:19:29] [INFO] Режим: bat-файл (general (ALT).bat)
+2026-05-02 02:19:29,455 [DEBUG] core.manager: [02:19:29] [INFO] zapret запущен (PID 14060)
+2026-05-02 02:19:32,627 [DEBUG] core.manager: [02:19:32] [WARN] winws.exe не найден после запуска bat
+2026-05-02 02:19:32,628 [DEBUG] core.manager: [02:19:32] [INFO] zapret завершился (код 0)
+2026-05-02 02:21:02,089 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:22:18,128 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:22:18,129 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:22:19,080 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:22:19,160 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:22:21,398 [DEBUG] core.manager: [02:22:21] [START] Запуск zapret...
+2026-05-02 02:22:21,399 [DEBUG] core.manager: [02:22:21] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:22:21,417 [DEBUG] core.manager: [02:22:21] [INFO] zapret запущен (PID 10788)
+2026-05-02 02:22:21,467 [DEBUG] core.manager: [02:22:21] [ERROR] zapret завершился с кодом 1
+2026-05-02 02:22:23,579 [DEBUG] core.manager: [02:22:23] [START] Запуск zapret...
+2026-05-02 02:22:23,580 [DEBUG] core.manager: [02:22:23] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:22:23,594 [DEBUG] core.manager: [02:22:23] [INFO] zapret запущен (PID 7840)
+2026-05-02 02:22:23,658 [DEBUG] core.manager: [02:22:23] [ERROR] zapret завершился с кодом 1
+2026-05-02 02:32:01,111 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:32:05,670 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:32:05,671 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:32:06,595 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:32:06,677 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:32:12,470 [DEBUG] core.manager: [02:32:12] [START] Запуск zapret...
+2026-05-02 02:32:12,471 [DEBUG] core.manager: [02:32:12] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:32:12,490 [DEBUG] core.manager: [02:32:12] [INFO] zapret запущен (PID 10176)
+2026-05-02 02:32:12,539 [DEBUG] core.manager: [02:32:12] [ERROR] zapret завершился с кодом 1
+2026-05-02 02:32:14,139 [DEBUG] core.manager: [02:32:14] [START] Запуск zapret...
+2026-05-02 02:32:14,140 [DEBUG] core.manager: [02:32:14] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:32:14,153 [DEBUG] core.manager: [02:32:14] [INFO] zapret запущен (PID 4156)
+2026-05-02 02:32:14,217 [DEBUG] core.manager: [02:32:14] [ERROR] zapret завершился с кодом 1
+2026-05-02 02:32:22,437 [DEBUG] ui.dashboard: DNS cmd: netsh interface ip set dns name="Беспроводная сеть" source=static addr=111.88.98.50 validate=no
+2026-05-02 02:32:22,575 [INFO] ui.dashboard: DNS установлен: 111.88.98.50, 111.88.96.51
+2026-05-02 02:32:24,937 [DEBUG] ui.dashboard: DNS reset cmd: netsh interface ip set dns name="Беспроводная сеть" source=dhcp
+2026-05-02 02:32:25,004 [INFO] ui.dashboard: DNS сброшен на DHCP
+2026-05-02 02:35:14,246 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:35:18,939 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:35:18,939 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:35:19,871 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:35:19,950 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 02:35:21,372 [DEBUG] core.manager: [02:35:21] [START] Запуск zapret...
+2026-05-02 02:35:21,372 [DEBUG] core.manager: [02:35:21] [INFO] Режим: прямой запуск winws.exe из пресета (general.bat)
+2026-05-02 02:35:21,373 [DEBUG] core.manager: [02:35:21] [INFO] Game Filter: выключен
+2026-05-02 02:35:21,387 [DEBUG] core.manager: [02:35:21] [INFO] zapret запущен (PID 13620)
+2026-05-02 02:35:23,060 [DEBUG] core.manager: [02:35:23] [STOP] Остановка zapret...
+2026-05-02 02:35:23,096 [DEBUG] core.manager: [02:35:23] [INFO] winws.exe завершён
+2026-05-02 02:35:23,096 [DEBUG] core.manager: [02:35:23] [INFO] zapret остановлен
+2026-05-02 02:35:25,054 [DEBUG] core.manager: [02:35:25] [START] Запуск zapret...
+2026-05-02 02:35:25,054 [DEBUG] core.manager: [02:35:25] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:35:25,055 [DEBUG] core.manager: [02:35:25] [INFO] Game Filter: выключен
+2026-05-02 02:35:25,072 [DEBUG] core.manager: [02:35:25] [INFO] zapret запущен (PID 1784)
+2026-05-02 02:35:44,020 [DEBUG] core.manager: [02:35:44] [STOP] Остановка zapret...
+2026-05-02 02:35:44,039 [DEBUG] core.manager: [02:35:44] [INFO] winws.exe завершён
+2026-05-02 02:35:44,039 [DEBUG] core.manager: [02:35:44] [INFO] zapret остановлен
+2026-05-02 02:38:31,084 [DEBUG] core.manager: [02:38:31] [START] Запуск zapret...
+2026-05-02 02:38:31,085 [DEBUG] core.manager: [02:38:31] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:38:31,086 [DEBUG] core.manager: [02:38:31] [INFO] Game Filter: включён (1024-65535)
+2026-05-02 02:38:31,107 [DEBUG] core.manager: [02:38:31] [INFO] zapret запущен (PID 14000)
+2026-05-02 02:38:35,400 [DEBUG] core.manager: [02:38:35] [INFO] Рестарт zapret...
+2026-05-02 02:38:35,400 [DEBUG] core.manager: [02:38:35] [STOP] Остановка zapret...
+2026-05-02 02:38:35,422 [DEBUG] core.manager: [02:38:35] [INFO] winws.exe завершён
+2026-05-02 02:38:35,423 [DEBUG] core.manager: [02:38:35] [INFO] zapret остановлен
+2026-05-02 02:38:35,423 [DEBUG] core.manager: [02:38:35] [START] Запуск zapret...
+2026-05-02 02:38:35,423 [DEBUG] core.manager: [02:38:35] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:38:35,424 [DEBUG] core.manager: [02:38:35] [INFO] Game Filter: выключен
+2026-05-02 02:38:35,438 [DEBUG] core.manager: [02:38:35] [INFO] zapret запущен (PID 13548)
+2026-05-02 02:38:40,921 [DEBUG] core.manager: [02:38:40] [INFO] Рестарт zapret...
+2026-05-02 02:38:40,921 [DEBUG] core.manager: [02:38:40] [STOP] Остановка zapret...
+2026-05-02 02:38:40,925 [DEBUG] core.manager: [02:38:40] [INFO] winws.exe завершён
+2026-05-02 02:38:40,925 [DEBUG] core.manager: [02:38:40] [INFO] zapret остановлен
+2026-05-02 02:38:40,926 [DEBUG] core.manager: [02:38:40] [START] Запуск zapret...
+2026-05-02 02:38:40,927 [DEBUG] core.manager: [02:38:40] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:38:40,928 [DEBUG] core.manager: [02:38:40] [INFO] Game Filter: включён (1024-65535)
+2026-05-02 02:38:40,945 [DEBUG] core.manager: [02:38:40] [INFO] zapret запущен (PID 3480)
+2026-05-02 02:40:39,030 [DEBUG] core.manager: [02:40:39] [INFO] Рестарт zapret...
+2026-05-02 02:40:39,031 [DEBUG] core.manager: [02:40:39] [STOP] Остановка zapret...
+2026-05-02 02:40:39,058 [DEBUG] core.manager: [02:40:39] [INFO] winws.exe завершён
+2026-05-02 02:40:39,059 [DEBUG] core.manager: [02:40:39] [INFO] zapret остановлен
+2026-05-02 02:40:39,059 [DEBUG] core.manager: [02:40:39] [START] Запуск zapret...
+2026-05-02 02:40:39,060 [DEBUG] core.manager: [02:40:39] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 02:40:39,061 [DEBUG] core.manager: [02:40:39] [INFO] Game Filter: выключен
+2026-05-02 02:40:39,077 [DEBUG] core.manager: [02:40:39] [INFO] zapret запущен (PID 12764)
+2026-05-02 02:40:39,460 [DEBUG] core.manager: [02:40:39] [STOP] Остановка zapret...
+2026-05-02 02:40:39,478 [DEBUG] core.manager: [02:40:39] [INFO] winws.exe завершён
+2026-05-02 02:40:39,479 [DEBUG] core.manager: [02:40:39] [INFO] zapret остановлен
+2026-05-02 02:56:26,828 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:56:31,701 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:56:31,702 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:56:32,424 [ERROR] ui.main_window: ОШИБКА В _load_tabs:
+Traceback (most recent call last):
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\main_window.py", line 309, in _load_tabs
+    from ui.settings_tab import SettingsTab
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\settings_tab.py", line 12, in <module>
+    from core.updater import (
+    ...<3 lines>...
+    )
+ImportError: cannot import name 'FLOWSEAL_REPO' from 'core.updater' (C:\Users\dkuzm\Desktop\FlowZap\core\updater.py)
+
+2026-05-02 02:56:32,424 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 02:56:40,213 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 02:56:43,590 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 02:56:43,591 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 02:56:44,162 [ERROR] ui.main_window: ОШИБКА В _load_tabs:
+Traceback (most recent call last):
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\main_window.py", line 309, in _load_tabs
+    from ui.settings_tab import SettingsTab
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\settings_tab.py", line 12, in <module>
+    from core.updater import (
+    ...<3 lines>...
+    )
+ImportError: cannot import name 'FLOWSEAL_REPO' from 'core.updater' (C:\Users\dkuzm\Desktop\FlowZap\core\updater.py)
+
+2026-05-02 02:56:44,164 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:00:53,339 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 03:00:57,833 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 03:00:57,834 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 03:00:58,506 [ERROR] ui.main_window: ОШИБКА В _load_tabs:
+Traceback (most recent call last):
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\main_window.py", line 309, in _load_tabs
+    from ui.settings_tab import SettingsTab
+  File "C:\Users\dkuzm\Desktop\FlowZap\ui\settings_tab.py", line 12, in <module>
+    from core.updater import (
+    ...<3 lines>...
+    )
+ImportError: cannot import name 'get_installed_core_version' from 'core.updater' (C:\Users\dkuzm\Desktop\FlowZap\core\updater.py)
+
+2026-05-02 03:00:58,506 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:03:05,422 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 03:03:09,930 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 03:03:09,931 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 03:03:10,891 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:03:10,944 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 03:03:14,759 [DEBUG] core.manager: [03:03:14] [START] Запуск zapret...
+2026-05-02 03:03:14,760 [DEBUG] core.manager: [03:03:14] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:03:14,761 [DEBUG] core.manager: [03:03:14] [INFO] Game Filter: выключен
+2026-05-02 03:03:14,779 [DEBUG] core.manager: [03:03:14] [INFO] zapret запущен (PID 11836)
+2026-05-02 03:03:14,848 [DEBUG] core.manager: [03:03:14] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:03:24,663 [ERROR] core.updater: Ошибка проверки обновлений: HTTP Error 404: Not Found
+2026-05-02 03:03:27,023 [ERROR] core.updater: Ошибка проверки обновлений: HTTP Error 404: Not Found
+2026-05-02 03:04:02,259 [ERROR] core.updater: Ошибка проверки обновлений: HTTP Error 404: Not Found
+2026-05-02 03:04:33,282 [ERROR] core.updater: Ошибка проверки обновлений: HTTP Error 404: Not Found
+2026-05-02 03:08:43,873 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 03:08:48,337 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 03:08:48,337 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 03:08:49,494 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:08:49,523 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 03:08:56,874 [ERROR] core.updater: Ошибка проверки обновлений: HTTP Error 404: Not Found
+2026-05-02 03:09:05,104 [DEBUG] core.manager: [03:09:05] [START] Запуск zapret...
+2026-05-02 03:09:05,104 [DEBUG] core.manager: [03:09:05] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:05,106 [DEBUG] core.manager: [03:09:05] [INFO] Game Filter: выключен
+2026-05-02 03:09:05,126 [DEBUG] core.manager: [03:09:05] [INFO] zapret запущен (PID 12940)
+2026-05-02 03:09:05,212 [DEBUG] core.manager: [03:09:05] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:07,372 [DEBUG] core.manager: [03:09:07] [START] Запуск zapret...
+2026-05-02 03:09:07,373 [DEBUG] core.manager: [03:09:07] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:07,373 [DEBUG] core.manager: [03:09:07] [INFO] Game Filter: выключен
+2026-05-02 03:09:07,389 [DEBUG] core.manager: [03:09:07] [INFO] zapret запущен (PID 13944)
+2026-05-02 03:09:07,455 [DEBUG] core.manager: [03:09:07] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:08,067 [DEBUG] core.manager: [03:09:08] [START] Запуск zapret...
+2026-05-02 03:09:08,068 [DEBUG] core.manager: [03:09:08] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:08,068 [DEBUG] core.manager: [03:09:08] [INFO] Game Filter: выключен
+2026-05-02 03:09:08,086 [DEBUG] core.manager: [03:09:08] [INFO] zapret запущен (PID 11152)
+2026-05-02 03:09:08,169 [DEBUG] core.manager: [03:09:08] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:08,355 [DEBUG] core.manager: [03:09:08] [START] Запуск zapret...
+2026-05-02 03:09:08,355 [DEBUG] core.manager: [03:09:08] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:08,357 [DEBUG] core.manager: [03:09:08] [INFO] Game Filter: выключен
+2026-05-02 03:09:08,372 [DEBUG] core.manager: [03:09:08] [INFO] zapret запущен (PID 3908)
+2026-05-02 03:09:08,438 [DEBUG] core.manager: [03:09:08] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:08,579 [DEBUG] core.manager: [03:09:08] [START] Запуск zapret...
+2026-05-02 03:09:08,580 [DEBUG] core.manager: [03:09:08] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:08,581 [DEBUG] core.manager: [03:09:08] [INFO] Game Filter: выключен
+2026-05-02 03:09:08,596 [DEBUG] core.manager: [03:09:08] [INFO] zapret запущен (PID 13780)
+2026-05-02 03:09:08,664 [DEBUG] core.manager: [03:09:08] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:08,779 [DEBUG] core.manager: [03:09:08] [START] Запуск zapret...
+2026-05-02 03:09:08,780 [DEBUG] core.manager: [03:09:08] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:08,781 [DEBUG] core.manager: [03:09:08] [INFO] Game Filter: выключен
+2026-05-02 03:09:08,797 [DEBUG] core.manager: [03:09:08] [INFO] zapret запущен (PID 5892)
+2026-05-02 03:09:08,874 [DEBUG] core.manager: [03:09:08] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:08,987 [DEBUG] core.manager: [03:09:08] [START] Запуск zapret...
+2026-05-02 03:09:08,987 [DEBUG] core.manager: [03:09:08] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:08,988 [DEBUG] core.manager: [03:09:08] [INFO] Game Filter: выключен
+2026-05-02 03:09:09,004 [DEBUG] core.manager: [03:09:09] [INFO] zapret запущен (PID 7176)
+2026-05-02 03:09:09,071 [DEBUG] core.manager: [03:09:09] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:09,196 [DEBUG] core.manager: [03:09:09] [START] Запуск zapret...
+2026-05-02 03:09:09,197 [DEBUG] core.manager: [03:09:09] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:09,199 [DEBUG] core.manager: [03:09:09] [INFO] Game Filter: выключен
+2026-05-02 03:09:09,216 [DEBUG] core.manager: [03:09:09] [INFO] zapret запущен (PID 2896)
+2026-05-02 03:09:09,289 [DEBUG] core.manager: [03:09:09] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:09:09,396 [DEBUG] core.manager: [03:09:09] [START] Запуск zapret...
+2026-05-02 03:09:09,396 [DEBUG] core.manager: [03:09:09] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:09:09,397 [DEBUG] core.manager: [03:09:09] [INFO] Game Filter: выключен
+2026-05-02 03:09:09,413 [DEBUG] core.manager: [03:09:09] [INFO] zapret запущен (PID 964)
+2026-05-02 03:09:09,500 [DEBUG] core.manager: [03:09:09] [ERROR] zapret завершился с кодом 1
+2026-05-02 03:11:35,865 [DEBUG] core.manager: [03:11:35] [START] Запуск zapret...
+2026-05-02 03:11:35,865 [DEBUG] core.manager: [03:11:35] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:11:35,867 [DEBUG] core.manager: [03:11:35] [INFO] Game Filter: выключен
+2026-05-02 03:11:35,910 [DEBUG] core.manager: [03:11:35] [INFO] zapret запущен (PID 6068)
+2026-05-02 03:11:39,404 [DEBUG] core.manager: [03:11:39] [STOP] Остановка zapret...
+2026-05-02 03:11:39,409 [DEBUG] core.manager: [03:11:39] [INFO] winws.exe завершён
+2026-05-02 03:11:39,409 [DEBUG] core.manager: [03:11:39] [INFO] zapret остановлен
+2026-05-02 03:11:40,086 [DEBUG] core.manager: [03:11:40] [START] Запуск zapret...
+2026-05-02 03:11:40,087 [DEBUG] core.manager: [03:11:40] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:11:40,088 [DEBUG] core.manager: [03:11:40] [INFO] Game Filter: выключен
+2026-05-02 03:11:40,109 [DEBUG] core.manager: [03:11:40] [INFO] zapret запущен (PID 2760)
+2026-05-02 03:11:40,755 [DEBUG] core.manager: [03:11:40] [STOP] Остановка zapret...
+2026-05-02 03:11:40,759 [DEBUG] core.manager: [03:11:40] [INFO] winws.exe завершён
+2026-05-02 03:11:40,759 [DEBUG] core.manager: [03:11:40] [INFO] zapret остановлен
+2026-05-02 03:12:16,972 [DEBUG] core.manager: [03:12:16] [START] Запуск zapret...
+2026-05-02 03:12:16,973 [DEBUG] core.manager: [03:12:16] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:12:16,979 [DEBUG] core.manager: [03:12:16] [INFO] Game Filter: выключен
+2026-05-02 03:12:16,998 [DEBUG] core.manager: [03:12:16] [INFO] zapret запущен (PID 7140)
+2026-05-02 03:12:18,387 [DEBUG] core.manager: [03:12:18] [STOP] Остановка zapret...
+2026-05-02 03:12:18,405 [DEBUG] core.manager: [03:12:18] [INFO] winws.exe завершён
+2026-05-02 03:12:18,405 [DEBUG] core.manager: [03:12:18] [INFO] zapret остановлен
+2026-05-02 03:13:08,426 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 03:37:18,113 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 03:37:18,113 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 03:37:19,089 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:37:19,133 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 03:43:12,210 [ERROR] core.updater: Ошибка проверки обновлений: HTTP Error 404: Not Found
+2026-05-02 03:44:01,637 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 03:44:06,074 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 03:44:06,083 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True, 'bar_style': 'rainbow'}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 03:44:07,019 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:44:07,061 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 03:44:11,567 [DEBUG] core.manager: [03:44:11] [START] Запуск zapret...
+2026-05-02 03:44:11,671 [DEBUG] core.manager: [03:44:11] [INFO] Режим: прямой запуск winws.exe из пресета (general (ALT).bat)
+2026-05-02 03:44:11,673 [DEBUG] core.manager: [03:44:11] [INFO] Game Filter: выключен
+2026-05-02 03:44:11,683 [DEBUG] core.manager: [03:44:11] [DEBUG] Аргументы: --wf-tcp=80,443,2053,2083,2087,2096,8443,12 --wf-udp=443,19294-19344,50000-50100,12 --filter-udp=443 --hostlist=C:\Users\dkuzm\Desktop\FlowZap\zapret\lists\list-general.txt --hostlist=C:\Users\dkuzm\Desktop\FlowZap\zapret\lists\list-general-user.txt…
+2026-05-02 03:44:11,690 [DEBUG] core.manager: [03:44:11] [INFO] zapret запущен (PID 1752)
+2026-05-02 03:44:19,732 [DEBUG] core.manager: [03:44:19] [STOP] Остановка zapret...
+2026-05-02 03:44:19,749 [DEBUG] core.manager: [03:44:19] [INFO] winws.exe завершён
+2026-05-02 03:44:19,749 [DEBUG] core.manager: [03:44:19] [INFO] zapret остановлен
+2026-05-02 03:44:23,346 [INFO] flowzap: ─── FlowZap завершён ───
+2026-05-02 03:44:26,397 [INFO] flowzap: ─── FlowZap запускается ───
+2026-05-02 03:44:26,398 [DEBUG] flowzap: Конфиг: {'zapret': {'exe_path': 'zapret/bin/winws.exe', 'presets_dir': 'zapret', 'last_preset': 'general', 'args': [], 'autostart': False}, 'ui': {'theme': 'dark', 'remember_tab': True, 'bar_style': 'rainbow'}, 'updater': {'repo': 'Flowseal/zapret-discord-youtube', 'check_on_start': True}, 'dns': {'servers': ['111.88.98.50', '111.88.96.51']}}
+2026-05-02 03:44:27,283 [INFO] flowzap: UI готов, запуск mainloop
+2026-05-02 03:44:27,325 [INFO] core.ping_checker: Загружены результаты из test_results_2026-05-01_23-46-10.txt (19 пресетов)
+2026-05-02 03:50:08,550 [INFO] flowzap: ─── FlowZap завершён ───
